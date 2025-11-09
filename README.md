@@ -11,5 +11,5 @@ Highlights
 - Data cleaned, transformed, and summarized using PivotTables.
 
 <img width="1585" height="667" alt="image" src="https://github.com/user-attachments/assets/6357e2f8-c780-4bd1-8879-89118a4d05a1" />
-<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/4a171e84-26c0-48ac-9488-e259945c576f" />
-<img width="1919" height="733" alt="image" src="https://github.com/user-attachments/assets/dd5c5e52-89f3-4129-a1b8-7f52d9bf615e" />
+<img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/4fd3d229-936e-40af-a2c4-32f88d941940" />
+<img width="1552" height="725" alt="image" src="https://github.com/user-attachments/assets/6219ee10-3a66-429b-87bd-85aec610cec0" />
